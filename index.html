@@ -1,12 +1,29 @@
 <html>
   <head>
-    <title>Space Invaders</title>
+    <title>Mars Attacks</title>
   </head>
 
   <body>
     <link rel="stylesheet" type="text/css" href="./assets/application.css">
+    <div id="modal-box">
 
-    <canvas id="canvas"></canvas>
+      <div id="introModal" class="modal">
+
+        <div class="modal-content">
+          <p>
+            Instructions will go here
+          </p>
+          <span class="close">Start Game</span>
+        </div>
+
+      </div>
+
+    </div>
+
+    <div class="canvas-box">
+      <img id="logo" src="./assets/images/MA4.png" />
+      <canvas id="canvas"></canvas>
+    </div>
 
     <script type="application/javascript" src="vendor/keymaster.js"></script>
     <script type="application/javascript" src="lib/bundle.js"></script>
