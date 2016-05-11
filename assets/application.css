@@ -1,0 +1,7 @@
+#canvas {
+  height: 600px;
+  width: 1000px;
+  border: 1px solid black;
+  background: url(./images/rsz_jupiter.png);
+  background-position: cover;
+}
