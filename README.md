@@ -2,7 +2,8 @@
 
 [Play Now][link]
 
-[link]: [http://jahatch512.github.io/Mars-Attacks/]
+[link]: http://jahatch512.github.io/Mars-Attacks/
+
 
 Mars Attacks is a JavaScript game built using the HTML5 Canvas. It is a first person shooter game with inspiration from Space Invaders and Raiden Jet Fighter.
 
